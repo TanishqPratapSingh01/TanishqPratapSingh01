@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TanishqPratapSingh0
+- 👋 Hi, I’m @TanishqPratapSingh
 - 🌱 I’m currently learning Java
 - 📫 You can reach me through my LinkedIn - Tanishq Pratap Singh
 
