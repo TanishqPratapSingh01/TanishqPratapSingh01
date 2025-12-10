@@ -1,24 +1,52 @@
-# 💫 About Me:
-Hii , I'm Tanishq Pratap Singh . I'm a student .
+# Hi, I'm Tanishq Pratap Singh
 
+Aspiring Software Developer | B.Tech Student | Building Projects That Solve Real Problems
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanishqpratapsingh) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanishqPratapSingh01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TanishqPratapSingh01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqPratapSingh01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanishqPratapSingh01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I’m passionate about full-stack development, modern web technologies, and creating clean, scalable applications.  
+I learn by building, experimenting, and contributing to open-source whenever possible.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TanishqPratapSingh01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Tech Stack & Tools
+
+**Languages:** C, C++, JavaScript, Python  
+**Frontend:** HTML5, CSS3, JavaScript, React (learning)  
+**Backend:** Node.js, Express  
+**Databases:** MongoDB, MySQL  
+**Version Control:** Git, GitHub  
+**Tools / Others:** Postman, VS Code, REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 1. **HealthFit**  
+A fitness & health tracking web application with modular components and clean UI.  
+Tech: HTML, CSS, JS  
+Repo: https://github.com/TanishqPratapSingh01/Healthfit
+
+### 2. **My Portfolio Website**  
+A responsive personal portfolio built to showcase my work and background.  
+Tech: HTML, CSS, JS  
+Repo: https://github.com/TanishqPratapSingh01/My_Portfolio
+
+### 3. **Web Development Projects Collection**  
+A collection of beginner–intermediate level frontend projects built while learning.  
+Repo: https://github.com/TanishqPratapSingh01/Web-Developmentj---Projects
+
+---
+
+## 📌 What I’m Working On
+
+- Learning full-stack development (Node.js + MongoDB + React)
+- Improving project architecture & documentation
+- Preparing for internships and open-source contribution
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/tanishq-pratap-singh  
+Email: tanishqpratapsingh01@gmail.com
+
+---
