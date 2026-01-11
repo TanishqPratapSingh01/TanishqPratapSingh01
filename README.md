@@ -9,7 +9,7 @@ I learn by building, experimenting, and contributing to open-source whenever pos
 
 ## 🔧 Tech Stack & Tools
 
-**Languages:** C, C++, JavaScript, Python  
+**Languages:** Java, JavaScript, Python  
 **Frontend:** HTML5, CSS3, JavaScript, React (learning)  
 **Backend:** Node.js, Express  
 **Databases:** MongoDB, MySQL  
