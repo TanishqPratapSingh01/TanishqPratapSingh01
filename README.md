@@ -25,10 +25,11 @@
 
 I am a **B.Tech Information Technology student** *(CGPA: 8.92/10, Graduating May 2027)* passionate about building high-performance backend systems, distributed architectures, and scalable web applications. 
 
-- 🎓 **Academic Excellence:** Maintaining a strong academic track record (**8.92 CGPA**) at NIET.
+- 🎓 **Academic Excellence:** Maintaining a strong academic track record (**8.92 CGPA**) at Noida Institute of Engineering & Technology.
 - ⚡ **Competitive Programmer:** Top **13.89% globally** on LeetCode (*Peak Rating: 1768*) with **1000+ problems solved**.
-- 💼 **Industry Experience:** Former **Java Programming Intern** at CodSoft — built modular applications using clean architecture, multithreading, and OOP design patterns.
-- 🔭 **Focus Areas:** Distributed Systems, System Design (LLD/HLD), Microservices, and Full-Stack Engineering.
+- 🧠 **Core Strengths:** Strong foundation in Data Structures, Algorithms, OOP, System Design, Operating Systems, and DBMS.
+- 🔭 **Focus Areas:** Distributed Systems, Microservices, Backend Engineering, and Full-Stack Development.
+- 💡 Currently preparing for **SDE Internships** and looking to contribute to impactful engineering teams.
 
 <br/>
 
@@ -40,7 +41,7 @@ I am a **B.Tech Information Technology student** *(CGPA: 8.92/10, Graduating May
       <h4>🧠 Problem Solving & CP</h4>
       <ul>
         <li><b>LeetCode Contest Rating:</b> 1768 (Top 13.89% Globally)</li>
-        <li><b>Problems Solved:</b> 1000+ across Graphs, DP, Trees, & Greedy</li>
+        <li><b>Problems Solved:</b> 1000+ across Graphs, DP, Trees & Greedy</li>
         <li><b>Consistency:</b> 300+ Active Coding Days in the past year</li>
       </ul>
     </td>
@@ -116,11 +117,14 @@ I am a **B.Tech Information Technology student** *(CGPA: 8.92/10, Graduating May
 ## 📊 Analytics & Coding Profile
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TanishqPratapSingh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqPratapSingh01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
+</div>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TanishqPratapSingh01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanishq's GitHub Stats"/>
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqPratapSingh01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishqPratapSingh01&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
 <br/>
