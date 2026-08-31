@@ -40,7 +40,7 @@ I am a **B.Tech Information Technology student** *(CGPA: 8.92/10, Graduating May
     <td width="50%">
       <h4>🧠 Problem Solving & CP</h4>
       <ul>
-        <li><b>LeetCode Contest Rating:</b> 1768 (Top 13.89% Globally)</li>
+        <li><b>LeetCode Contest Rating:</b> 1768 (Top 10.05% Globally)</li>
         <li><b>Problems Solved:</b> 1000+ across Graphs, DP, Trees & Greedy</li>
         <li><b>Consistency:</b> 300+ Active Coding Days in the past year</li>
       </ul>
